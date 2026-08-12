@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rachityadav111/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rachityadav111/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/rachityadav111/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rachityadav111/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/rachityadav111/leetcode/tree/master/0015-3sum) |
 ## Hash Table
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rachityadav111/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rachityadav111/leetcode/tree/master/0015-3sum) |
 ## Sorting
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rachityadav111/leetcode/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rachityadav111/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
