@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/rachityadav111/leetcode/tree/master/0010-regular-expression-matching) |
+| [0095-unique-binary-search-trees-ii](https://github.com/rachityadav111/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1563-stone-game-v](https://github.com/rachityadav111/leetcode/tree/master/1563-stone-game-v) |
 ## Two Pointers
 |  |
@@ -130,4 +131,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rachityadav111/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/rachityadav111/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/rachityadav111/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/rachityadav111/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/rachityadav111/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
