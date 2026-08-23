@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/rachityadav111/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rachityadav111/leetcode/tree/master/0013-roman-to-integer) |
 | [1563-stone-game-v](https://github.com/rachityadav111/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/rachityadav111/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rachityadav111/leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rachityadav111/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/rachityadav111/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rachityadav111/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rachityadav111/leetcode/tree/master/0014-longest-common-prefix) |
+| [1927-sum-game](https://github.com/rachityadav111/leetcode/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rachityadav111/leetcode/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/rachityadav111/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/rachityadav111/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rachityadav111/leetcode/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/rachityadav111/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/rachityadav111/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rachityadav111/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
