@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rachityadav111/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rachityadav111/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rachityadav111/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0115-distinct-subsequences](https://github.com/rachityadav111/leetcode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/rachityadav111/leetcode/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rachityadav111/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/rachityadav111/leetcode/tree/master/0010-regular-expression-matching) |
 | [0095-unique-binary-search-trees-ii](https://github.com/rachityadav111/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0115-distinct-subsequences](https://github.com/rachityadav111/leetcode/tree/master/0115-distinct-subsequences) |
 | [1563-stone-game-v](https://github.com/rachityadav111/leetcode/tree/master/1563-stone-game-v) |
 ## Two Pointers
 |  |
