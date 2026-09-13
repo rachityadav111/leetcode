@@ -1,0 +1,43 @@
+class Solution {
+public:
+    int largestOverlap(vector<vector<int>>& img1,
+                       vector<vector<int>>& img2) {
+
+        int n = img1.size();
+        int ans = 0;
+
+        // Try every possible vertical movement
+        for (int dx = -(n - 1); dx <= n - 1; dx++) {
+
+            // Try every possible horizontal movement
+            for (int dy = -(n - 1); dy <= n - 1; dy++) {
+
+                int count = 0;
+
+                // Check every cell of img1
+                for (int i = 0; i < n; i++) {
+                    for (int j = 0; j < n; j++) {
+
+                        int x = i + dx;
+                        int y = j + dy;
+
+                        // Check if the moved cell is inside img2
+                        if (x >= 0 && x < n &&
+                            y >= 0 && y < n) {
+
+                            if (img1[i][j] == 1 &&
+                                img2[x][y] == 1) {
+
+                                count++;
+                            }
+                        }
+                    }
+                }
+
+                ans = max(ans, count);
+            }
+        }
+
+        return ans;
+    }
+};
