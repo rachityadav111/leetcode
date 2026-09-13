@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rachityadav111/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rachityadav111/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rachityadav111/leetcode/tree/master/0018-4sum) |
+| [0835-image-overlap](https://github.com/rachityadav111/leetcode/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/rachityadav111/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/rachityadav111/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/rachityadav111/leetcode/tree/master/2029-stone-game-ix) |
@@ -193,5 +194,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/rachityadav111/leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rachityadav111/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
