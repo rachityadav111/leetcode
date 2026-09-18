@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rachityadav111/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1386-cinema-seat-allocation](https://github.com/rachityadav111/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rachityadav111/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rachityadav111/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rachityadav111/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rachityadav111/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rachityadav111/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rachityadav111/leetcode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rachityadav111/leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/rachityadav111/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rachityadav111/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/rachityadav111/leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rachityadav111/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rachityadav111/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rachityadav111/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rachityadav111/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rachityadav111/leetcode/tree/master/0018-4sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rachityadav111/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rachityadav111/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Trie
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rachityadav111/leetcode/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/rachityadav111/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rachityadav111/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/rachityadav111/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rachityadav111/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rachityadav111/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
