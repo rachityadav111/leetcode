@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rachityadav111/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rachityadav111/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rachityadav111/leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rachityadav111/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0835-image-overlap](https://github.com/rachityadav111/leetcode/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/rachityadav111/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rachityadav111/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rachityadav111/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rachityadav111/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rachityadav111/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rachityadav111/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rachityadav111/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
