@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rachityadav111/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rachityadav111/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rachityadav111/leetcode/tree/master/0027-remove-element) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rachityadav111/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/rachityadav111/leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/rachityadav111/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/rachityadav111/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rachityadav111/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/rachityadav111/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rachityadav111/leetcode/tree/master/0013-roman-to-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rachityadav111/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/rachityadav111/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rachityadav111/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/rachityadav111/leetcode/tree/master/1563-stone-game-v) |
